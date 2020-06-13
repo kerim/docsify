@@ -14,6 +14,7 @@ notes: "Core course teaching basic college survival skills to undergraduates. (C
 ## 課堂大綱 Course Outline (108學年上學期)
 
 | 日期 | 課程內容 | 授課教師 | 說明 |
+| -- | ---- | --- | ---- |
 | 9/11 | "課程介紹：大學學什麼?你大學生了嗎? What do I want from University?" | 葉、傅 | 認識課程、同學與自己 |
 | 9/18 | 閱讀技巧：做個聰明的讀者 Reading Techniques: Be a Smart Reader | 葉、傅 | *確定分組名單 |
 | 9/25 | 指定閱讀講座 Lecture on assigned reading | 葉、傅 | 測驗一 (閱讀理解) \| 作業（1）説明 |
