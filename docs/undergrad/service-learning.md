@@ -1,4 +1,4 @@
-# Service Learning
+# Service Learning 服務學習
 
 本課程旨在「做中學」，結合「服務」與「學習」的精神，讓學生獲得更多元的知識與經驗，並藉由服務社區、部落、機構或NGO組織，體驗社會服務的價值。同學需完成12小時之服務，並對其服務活動進行反思，作公開的分享，希冀將本系所學的知識和技能學以致用，從中培養服務精神、敬業態度和職業倫理。
 
@@ -42,11 +42,10 @@ Because service learning
 * 修別: 必修
 * 學分數: 1
 
-{% include instructor.markdown %}
-
+[instructor](includes/instructor.md ':include')
+   
 ### TA 助教
    * 課程助教: 拉比•馬沙 41064e022@gms.ndhu.edu.tw 
    * 請假請事先告之、email或電話連絡。
 
-[grading-service-learning](grading-service-learning.md ':include') 
-
+[grading-service-learning](includes/grading-service-learning.md ':include')
