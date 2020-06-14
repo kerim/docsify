@@ -1,5 +1,5 @@
 <!-- _navbar.md --> 
-
-*  [En](/)
-*  [中文](/zh-tw/)
+- Language
+  - [中文](/zh-tw/)
+  - [English](/en-us/)
 

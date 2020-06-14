@@ -1,4 +1,4 @@
-- [home](http://kerim.oxus.net/)
+- [About Kerim](home.md)
 - Classes
-  - [service learning](service-learning)
-  - [study skills](study-skills)
+  - [service learning](teaching/service-learning)
+  - [study skills](teaching/study-skills)

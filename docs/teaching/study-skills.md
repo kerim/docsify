@@ -1,9 +1,4 @@
----
-layout: undergraduate_courses
-title: 學習方法與技巧 Basic Study Skills
-category: undergraduate_courses
-notes: "Core course teaching basic college survival skills to undergraduates. (Co-taught.)"
----
+# Study Skills
 
 ## 課程宗旨
 領導與啓發大一新生，學習做為一個大學生在學習和生活方面所需要的理念、技巧和能力，做一個具有獨立批判思考的大學生和學術人。
